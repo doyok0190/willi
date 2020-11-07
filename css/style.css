@@ -1,0 +1,9 @@
+.foto {
+    width: 100%;
+    max-width: 200px;
+}
+
+.jumbotron {
+    background-image: url(../img/WhatsApp\ Image\ 2020-11-03\ at\ 08.27.31\ \(1\).jpeg);
+    color: white;
+}
